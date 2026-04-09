@@ -1,1 +1,1 @@
-# RAG-practice
+Vectorless-RAG 2026
